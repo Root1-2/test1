@@ -13,5 +13,4 @@
         echo "<script>alert('DB connected!!!')</script>";
     }
 
-// 2nd up
 ?>
